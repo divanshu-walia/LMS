@@ -12,4 +12,3 @@ The video files are in the courses folder. Replace it with your desired .mp4 fil
 I didnt upload the database file. You can create the database in mysql using the ER diagram above. 
 to run the project in Netbeans create new project name it LMS and copy all the files and folders in "" \NetBeansProjects\LMS\build\web "" and "" \NetBeansProjects\LMS\web "".
 
-Contributor: SubhanshuWalia
